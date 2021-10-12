@@ -1,7 +1,7 @@
 {
     "name": "Nyan Cat 1",
     "description": "A space cat fly on rainbow",
-    "image": "https://vi.wikipedia.org/wiki/Nyan_Cat#/media/Tập_tin:Nyan_Cat_250px.png",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/b/b7/Nyan_Cat_250px.png",
     "type": "object",
     "properties": {
         "dimension": "2D",
