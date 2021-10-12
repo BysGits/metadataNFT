@@ -2,11 +2,19 @@
     "name": "Nyan Cat 1",
     "description": "A space cat fly on rainbow",
     "image": "https://upload.wikimedia.org/wikipedia/vi/b/b7/Nyan_Cat_250px.png",
-    "type": "object",
-    "properties": {
-        "dimension": "2D",
-        "main": "pink",
-        "skin": "gray"
-    }
+    "attributes": [
+        {
+            "trait_type" : "dimension",
+            "value" : "2D"
+        },
+        {
+            "trait_type" : "main",
+            "value" : "pink"
+        },
+        {
+            "trait_type" : "skin",
+            "value" : "gray"
+        }
+    ]
 
 }
