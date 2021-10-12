@@ -1,0 +1,14 @@
+{
+  "name": "Rick Roll",
+  "description": "Never Gonna Give You Up",
+  "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "properties": [
+    {
+      "trait_type": "genre",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Never",
+      "value": "gonna let you down"
+  ]
+}
